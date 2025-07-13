@@ -1,0 +1,1 @@
+Built a responsive website using HTML and CSS, focusing on accessibility by following WCAG standards. Prioritized clean layout, effective use of whitespace, and strong visual hierarchy to deliver a user-friendly and visually appealing experience across all device
